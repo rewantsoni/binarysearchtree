@@ -78,13 +78,21 @@ PreOrderSuccessor for 9 : NULL
 
 
 PostOrder for the bst: 1 4 2 6 9 8 7 5 
+
 PostOrderSuccessor for 5 : NULL
+
 PostOrderSuccessor for 2 : 6
+
 PostOrderSuccessor for 7 : 5
+
 PostOrderSuccessor for 1 : 4
+
 PostOrderSuccessor for 4 : 2
+
 PostOrderSuccessor for 6 : 9
+
 PostOrderSuccessor for 8 : 7
+
 PostOrderSuccessor for 9 : 8
 
 
