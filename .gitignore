@@ -6,4 +6,5 @@
 .idea/workspace.xml
 .DS_Store
 cmake-build-debug
+CMakeLists.txt
 .idea/
