@@ -97,5 +97,7 @@ PostOrderSuccessor for 9 : 8
 
 
 InOrder Before: 1 2 4 5 6 7 8 9 
+
 Deleting Node 9
+
 InOrder After: 1 2 4 5 6 7 8 
