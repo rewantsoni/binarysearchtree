@@ -1,0 +1,9 @@
+.idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/texteditor.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.DS_Store
+cmake-build-debug
+.idea/
